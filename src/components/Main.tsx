@@ -20,11 +20,6 @@ function Main() {
           </div>
           <h1>Hannah Kim</h1>
           <p>Data Scientist | Data Analyst | Data Engineer</p>
-
-          {/* <div className="mobile_social_icons">
-            <a href="https://github.com/hannah-hana-kim" target="_blank" rel="noreferrer"><GitHubIcon/></a>
-            <a href="https://www.linkedin.com/in/hannah-hana-kim/" target="_blank" rel="noreferrer"><LinkedInIcon/></a>
-          </div> */}
         </div>
       </div>
     </div>
